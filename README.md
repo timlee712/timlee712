@@ -1,5 +1,15 @@
-### Hi there 👋
+[![Header](https://lh3.googleusercontent.com/Y5p2rVDgxE-DSt8LjVjtqkzgly3HB5dEuYUhMcrde1p6ebUHNZ9x8HkhXjRr4IVM0tgqKFWLcsQrt4gb84ga1vUOjfM5fCcxnytLfisp4XlcVBRYjcQvpEmykhQbmQpqIkXqlLsFzh6Dvb5D75ifG8cpOouhXFgMYVZ3I3XBqXsXsyXsNgNgVmrgEkFzxIsNAZuPiHXrKdTQUZGMPMW_pds3y6TIE8QWCe5KHGp3z8WJgeITZqelQdBmMfZxjIMSV5P-9HOIEiNhOlnuBdWg9MyAQzbqb12yElZZNkmxgH5pub5D-4HCLIvY58jZ3L3UXOEq2aAG4rgfXGFpOjKAYQ9tKasnWlHTJiSEPwuMZWdYF50UHhjjooDjjKOaM9HKHOFL2D30zzR45IQwETNKGLxvSglSx_pjXQu6LtzUGiMvWK-fn2FG1Ks325L8UgXubmAD-NUAINVM7iKcjVWkYDbF91VDP7zulHUf9p1vqgw1zAIDljhUi4-m_dx_itegDjXGTKc9R1rblvWiQJQlti8q289uKsnhUozwHame0pcqIMDXJq73JFJC-C2-2EGOEBpyReILDTJkekIjC5WK0yN4pzqdGr1H49Ld3p2nIuQrXvDek9VjBSV9GI1G0Qwyz8BuAO-9rTeRVQGCtE73LdCtlCKeQDu4e9J0UkqCjXV6_lWTg-4oN4aKn1aRj7Mc_davBjGuridvxdw7FkmPyT9gvXL4mA1_57LvzH5z8q68jP7azqBlDRy7zRQOkCAfc764Ypm-LYOCnU6WbpRKRlcysVKXNsOw5TOqOUmRl9BZIAR09yJi4lspL6Btsmv_jL6uWdINApVt0bYgjlsK_7gj6H9jDcwJXUmggZ3aooYeTuUe0IhJqAjB_8EDpWEY77Z6LMJKpc6AZRVp1FuLjHFCmtsEK-JHoKM6bKVje9aR2RmP=w1920-h522-no?authuser=0)](github.com/timlee712)
 
+![](https://komarev.com/ghpvc/?username=timlee712)
+### Hi 👋
+--------
+Hello, my name is Timothy Lee and I am a front-end web developer in the making. I always loved messing around with technology, specifically computers. I enjoyed building my own pc so I thought software development would be a great choice for me to pursue as a career.
+### Languages 👨‍💻
+-------
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+### GitHub Stats 📈
+------
+![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timlee712&count_private=true&show_icons=true&theme=dark)
 <!--
 **timlee712/timlee712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
